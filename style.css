@@ -1,3 +1,13 @@
-p {
-  font-weight: bold;
+.main-title {
+    color: blue;
+}
+
+.description {
+    color: green;
+    font-size: 18px;
+}
+
+#unique {
+    color: red;
+    font-weight: bold;
 }
